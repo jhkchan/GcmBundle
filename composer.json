@@ -1,0 +1,20 @@
+{
+    "name": "endroid/gcm",
+    "description": "Endroid Google Cloud Messaging Bundle for Symfony",
+    "keywords": ["endroid", "gcm", "push", "notification", "notifications", "google", "cloud", "messaging", "symfony", "bundle"],
+    "homepage": "https://github.com/endroid/gcm",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jeroen van den Enden",
+            "email": "info@endroid.nl",
+            "homepage": "http://endroid.nl/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "endroid/gcm": "1.0",
+        "kriswallsmith/buzz": "0.7"
+    }
+}
