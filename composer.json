@@ -20,5 +20,6 @@
     "autoload": {
         "psr-0": { "Endroid\\Bundle\\GcmBundle": "" }
     },
+    "target-dir": "Endroid/Bundle/GcmBundle",
     "minimum-stability": "dev"
 }
