@@ -1,3 +1,3 @@
-Endroid GCM Bundle
-==================
+Endroid Google Cloud Messaging Bundle
+=====================================
 
