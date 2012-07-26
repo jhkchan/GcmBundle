@@ -17,5 +17,8 @@
         "endroid/gcm": "dev-master",
         "kriswallsmith/buzz": "0.7"
     },
+    "autoload": {
+        "psr-0": { "Endroid\\Bundle\\GcmBundle": "" }
+    },
     "minimum-stability": "dev"
 }
