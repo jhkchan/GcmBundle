@@ -1,7 +1,7 @@
 Endroid Google Cloud Messaging Bundle
 =====================================
 
-[![Build Status](https://secure.travis-ci.org/endroid/gcm-bundle.png)](http://travis-ci.org/endroid/gcm-bundle)
+[![Build Status](https://secure.travis-ci.org/endroid/GcmBundle.png)](http://travis-ci.org/endroid/GcmBundle)
 
 This bundle enables you to use the Endroid Google Cloud Messaging (endroid/Gcm) library as a decoupled service and
 enables configuration through the Symfony framework. Google Cloud Messaging is a service that helps developers send
