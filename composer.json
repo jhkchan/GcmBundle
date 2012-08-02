@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "endroid/gcm": "1.1",
+        "endroid/gcm": "dev-master",
         "kriswallsmith/buzz": "0.7"
     },
     "autoload": {
