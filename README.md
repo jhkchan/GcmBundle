@@ -22,7 +22,7 @@ the [endroid/Gcm](https://github.com/endroid/Gcm) repository and [Google GCM](ht
 ```js
 {
     "require": {
-        "endroid/gcm-bundle": "dev-master" // Or other desired version
+        "endroid/gcm-bundle": "dev-master"
     }
 }
 ```
