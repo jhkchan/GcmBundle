@@ -11,7 +11,7 @@ class GcmExtension extends Extension
 {
     public function load(array $configs, ContainerBuilder $container)
     {
-        $configuration = $this->getConfiguration($configs, $container);
+        $configuration = new Configuration();
         $config = $this->processConfiguration($configuration, $configs);
 
         $container->setParameter('gcm.api_key', $config['api_key']);
